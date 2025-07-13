@@ -12,7 +12,7 @@ library(forecast)
 library(Rcpp)
 
 #please modify this line to your own path if you want to run the app
-setwd("/Users/engkahhui/Downloads/Advanced R/project/RecipeExplorer")
+setwd("/Users/engkahhui/Downloads/AdvancedR/project/RecipeExplorer")
 sourceCpp("src/timeseries.cpp")
 source("R/recipe_analyzer.R")
 

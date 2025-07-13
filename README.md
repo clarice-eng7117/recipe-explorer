@@ -2,6 +2,21 @@
 
 **Recipe Explorer** is an interactive R-based application and package that helps users discover creative recipes based on the ingredients they already have at home. It leverages association rules, time parsing, and interactive dashboards to reduce food waste, save money, and spark cooking inspiration.
 
+**To filter the recipe with owned ingredients, relevant results may be provided despite not having the EXACT ingredients**
+![Filtering recipe with owned ingredients](images/recipe_filter.png)
+
+**Once clicked into any recipe, its content will be shown**
+![Recipe content is shown after it's clicked](images/recipe_content.png)
+
+**If simple filter is unable to satisfy your needs, you may use advanced filter if you have any special diet preference, e.g. calories intake control, or a very fast-to-make meal when you are STARVING and not have all day to cook!**
+![Advanced filter will be shown in a modal by clicking the menu on the left](images/advanced_filter.png)
+
+**Well, if you are curious about which cuisine dominates the recipe pool, you may refer to this regional cuisine distribution**
+![Graph of regional cuisine distribution (italian cuisine dominates, not a surprise)](images/regional_distribution.png)
+
+**Finally, if you are on strict diet control, or wish to gain weight healthily, you would need to know how much you should/should not take**
+![Calories calculator according to your BMI and lifestyle(activity level)](images/calories_calc.png)
+
 ---
 
 ## 🚀 Overview
